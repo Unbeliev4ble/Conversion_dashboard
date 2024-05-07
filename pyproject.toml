@@ -16,5 +16,3 @@ python-dotenv = "^0.21.0"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-[tool.poetry.scripts]
-main = "main:run_all"
