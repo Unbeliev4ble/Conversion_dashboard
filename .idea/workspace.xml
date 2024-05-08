@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2462f92b-e2a0-4a80-aff4-af0657f59165" name="Changes" comment="" />
+    <list default="true" id="2462f92b-e2a0-4a80-aff4-af0657f59165" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/charts_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/charts_project.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
