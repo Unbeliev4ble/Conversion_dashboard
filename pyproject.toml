@@ -6,11 +6,12 @@ authors = ["Andrey Volkov <andrew.unbelievable@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 pandas = "^2.2.2"
 matplotlib = "^3.8.4"
 requests = "^2.31.0"
 python-dotenv = "^1.0.1"
+numpy = "^1.26.4"
 
 [tool.poetry.scripts]
 main = "main:run_all"
